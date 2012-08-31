@@ -1,4 +1,4 @@
-# Semillero de Investigaci&oacute;n de Software Libre - ITM
+Semillero de Investigaci&oacute;n de Software Libre - ITM
 
 
 
