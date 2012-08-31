@@ -7,4 +7,5 @@ tags: [github]
 ---
 {% include JB/setup %}
 
-Manual de GitHub
+
+[Manual de GitHub](http://git-scm.com/book/es)
