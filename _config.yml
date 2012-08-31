@@ -12,11 +12,11 @@ pygments: true
 title : SISOL ITM
 tagline: Semillero de Software Libre
 author :
-  name : Name Lastname
-  email : blah@email.test
+  name : SISOL ITM
+  email : itmlibre@googlegroups.com
   github : kerobero
-  twitter : kerobero
-  feedburner : feedname
+  twitter : name
+  feedburner : name
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
