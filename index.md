@@ -1,6 +1,8 @@
 ---
 layout: page
-title: "Index"
+title: "Inicio"
 description: ""
 ---
 {% include JB/setup %}
+
+Semillero de Investigaci&oacute;n de Software Libre del ITM - Medellin
