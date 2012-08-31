@@ -1,8 +1,6 @@
-﻿---
+---
 layout: page
-title: SISOL ITM!
-tagline: Semillero de Investigaci&oacute;n de Software Libre
+title: "Index"
+description: ""
 ---
 {% include JB/setup %}
-
-Bienvenidos al semillero de investigaci&oacute;n 
