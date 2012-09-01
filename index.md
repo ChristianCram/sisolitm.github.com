@@ -11,7 +11,7 @@ El semillero de investigaci&oacute;n tiene como objetivo principal promover el u
 
 # Que es software libre ?
 ---
-El "Software Libre" es un asunto de libertad, no de precio.
+<blockquote>El "Software Libre" es un asunto de libertad, no de precio.</blockquote>
 
 El software libre es una cuesti&oacute;n de libertad de los usuarios para ejecutar, copiar, distribuir, estudiar, cambiar y modificar el software. M&aacute;s concretamente se refiere a los cuatro tipos de libertades para los usuarios de software:
 
