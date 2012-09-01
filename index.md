@@ -1,18 +1,19 @@
 ---
 layout: page
-title: "Inicio"
+title: "SISOL ITM"
 description: ""
 ---
 {% include JB/setup %}
 
 Semillero de Investigaci&oacute;n de Software Libre del ITM - Medellin
 
-El semillero de investigaci&oacute;n tiene como objetivo principal promover el uso y desarrollo de software libre tanto dentro de la instituci&oacute;n como fuera de ella.
+---
+El semillero de investigaci&oacute;n tiene como principal objetivo promover el uso y desarrollo de software libre dentro de la instituci&oacute;n.
 ---
 
 # Que es software libre ?
 
-<blockquote>El "Software Libre" es un asunto de libertad, no de precio.</blockquote>
+<blockquote>"El Software Libre es un asunto de libertad, no de precio." Richard Stallman</blockquote>
 
 El software libre es una cuesti&oacute;n de libertad de los usuarios para ejecutar, copiar, distribuir, estudiar, cambiar y modificar el software. M&aacute;s concretamente se refiere a los cuatro tipos de libertades para los usuarios de software:
 
